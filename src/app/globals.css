@@ -24,9 +24,6 @@ body {
 		hsl(240, 73%, 65%) 100%
 	);
 }
-* {
-	transition: all ease-in-out 0.5s;
-}
 
 @layer utilities {
 	.text-balance {
